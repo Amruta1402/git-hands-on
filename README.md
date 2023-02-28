@@ -2,6 +2,9 @@
 # Wow!. This is updated file
 ## 0. PowerShell Prep
 
+---------------------------
+My favourite colour is red.
+--------------------------
 A New line
 ```powershell
 # Let's teach PowerShell some macOS commands
